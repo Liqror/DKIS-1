@@ -1,10 +1,11 @@
+package project;
+
 import java.util.ArrayList;
 
 /**
  * Класс тектового интерфейса
  */
 public class TUI {
-
     /**
      * Метод меню, выполняющийся при начале работы
      */
